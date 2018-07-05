@@ -1,0 +1,20 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="input_day_4" type="PLAIN_TEXT" />
+      <mapping pattern="input_day_11" type="PLAIN_TEXT" />
+      <mapping pattern="input_day_12" type="PLAIN_TEXT" />
+      <mapping pattern="input_day_13" type="PLAIN_TEXT" />
+      <mapping pattern="input_day_9" type="PLAIN_TEXT" />
+      <mapping pattern="input_day_6" type="PLAIN_TEXT" />
+      <mapping pattern="input_day_5" type="PLAIN_TEXT" />
+      <mapping pattern="input_day_18" type="PLAIN_TEXT" />
+      <mapping pattern="input_day_15" type="PLAIN_TEXT" />
+      <mapping pattern="input_day_14" type="PLAIN_TEXT" />
+      <mapping pattern="input_day_8" type="PLAIN_TEXT" />
+      <mapping pattern="input_day_10" type="PLAIN_TEXT" />
+      <mapping pattern="input_day_7" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="TOML file" />
+    </extensionMap>
+  </component>
+</application>

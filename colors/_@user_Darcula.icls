@@ -1,0 +1,60 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2016-12-30T08:55:54</property>
+    <property name="ide">Idea</property>
+    <property name="ideVersion">2016.3.2.0.0</property>
+    <property name="modified">2017-09-28T19:42:16</property>
+    <property name="originalScheme">Darcula</property>
+    <property name="rainbow Default language">true</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.01" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <attributes>
+    <option name="RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="6b9d6d" />
+      </value>
+    </option>
+    <option name="org.rust.ENUM">
+      <value>
+        <option name="FOREGROUND" value="7688f9" />
+      </value>
+    </option>
+    <option name="org.rust.ENUM_VARIANT">
+      <value>
+        <option name="FOREGROUND" value="bb7ee0" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="org.rust.MODULE">
+      <value>
+        <option name="FOREGROUND" value="c4daae" />
+      </value>
+    </option>
+    <option name="org.rust.PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="68df8e" />
+      </value>
+    </option>
+    <option name="org.rust.STRUCT">
+      <value>
+        <option name="FOREGROUND" value="4ad5cd" />
+      </value>
+    </option>
+    <option name="org.rust.TRAIT">
+      <value>
+        <option name="FOREGROUND" value="9ac63e" />
+      </value>
+    </option>
+    <option name="org.rust.TYPE_ALIAS">
+      <value>
+        <option name="FOREGROUND" value="3ce7db" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
