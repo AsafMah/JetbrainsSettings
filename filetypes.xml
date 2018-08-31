@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="input_day_25" type="PLAIN_TEXT" />
+      <mapping pattern="day7" type="PLAIN_TEXT" />
       <mapping pattern="day5" type="PLAIN_TEXT" />
       <mapping pattern="day4" type="PLAIN_TEXT" />
       <mapping pattern="day3" type="PLAIN_TEXT" />
