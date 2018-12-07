@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="input_day_25" type="PLAIN_TEXT" />
       <mapping pattern="day7" type="PLAIN_TEXT" />
       <mapping pattern="day5" type="PLAIN_TEXT" />
