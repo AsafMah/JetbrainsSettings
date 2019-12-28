@@ -1,11 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="input_day_25" type="PLAIN_TEXT" />
-      <mapping pattern="day7" type="PLAIN_TEXT" />
-      <mapping pattern="day5" type="PLAIN_TEXT" />
-      <mapping pattern="day4" type="PLAIN_TEXT" />
+      <mapping pattern="input_day_24" type="PLAIN_TEXT" />
+      <mapping pattern="input_day_23" type="PLAIN_TEXT" />
+      <mapping pattern="input_day_22" type="PLAIN_TEXT" />
       <mapping pattern="day3" type="PLAIN_TEXT" />
       <mapping pattern="day2" type="PLAIN_TEXT" />
       <mapping pattern="input_day_9" type="PLAIN_TEXT" />
@@ -14,9 +13,7 @@
       <mapping pattern="input_day_6" type="PLAIN_TEXT" />
       <mapping pattern="input_day_5" type="PLAIN_TEXT" />
       <mapping pattern="input_day_4" type="PLAIN_TEXT" />
-      <mapping pattern="input_day_24" type="PLAIN_TEXT" />
-      <mapping pattern="input_day_23" type="PLAIN_TEXT" />
-      <mapping pattern="input_day_22" type="PLAIN_TEXT" />
+      <mapping pattern="day7" type="PLAIN_TEXT" />
       <mapping pattern="input_day_18" type="PLAIN_TEXT" />
       <mapping pattern="input_day_15" type="PLAIN_TEXT" />
       <mapping pattern="input_day_14" type="PLAIN_TEXT" />
@@ -24,6 +21,8 @@
       <mapping pattern="input_day_12" type="PLAIN_TEXT" />
       <mapping pattern="input_day_11" type="PLAIN_TEXT" />
       <mapping pattern="input_day_10" type="PLAIN_TEXT" />
+      <mapping pattern="day4" type="PLAIN_TEXT" />
+      <mapping pattern="day5" type="PLAIN_TEXT" />
       <mapping pattern="config" type="TOML file" />
     </extensionMap>
   </component>
