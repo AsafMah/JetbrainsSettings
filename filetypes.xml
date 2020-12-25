@@ -1,10 +1,10 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="input_day_13" type="PLAIN_TEXT" />
       <mapping pattern="input_day_25" type="PLAIN_TEXT" />
+      <mapping pattern="input_day_13" type="PLAIN_TEXT" />
       <mapping pattern="day2" type="PLAIN_TEXT" />
       <mapping pattern="input_day_7" type="PLAIN_TEXT" />
       <mapping pattern="input_day_8" type="PLAIN_TEXT" />
@@ -25,6 +25,10 @@
       <mapping pattern="input_day_23" type="PLAIN_TEXT" />
       <mapping pattern="input_day_24" type="PLAIN_TEXT" />
       <mapping pattern="input_day_22" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
       <mapping pattern="config" type="TOML file" />
     </extensionMap>
   </component>
