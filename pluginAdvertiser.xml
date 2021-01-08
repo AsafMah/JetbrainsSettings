@@ -183,6 +183,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.config">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Lombook Plugin" />
+              <option name="myPluginName" value="Lombok" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.cvp">
           <value>
             <plugin>
@@ -1535,6 +1544,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="lombok.config">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Lombook Plugin" />
+              <option name="myPluginName" value="Lombok" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="maven.config">
           <value>
             <plugin>
@@ -1634,6 +1652,11 @@
                   <entry key="CompoundRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" />
+                    </value>
+                  </entry>
+                  <entry key="EXTERNAL_TOOL_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="External LaTeX Tool" pluginName="TeXiFy IDEA" pluginId="nl.rubensten.texifyidea" />
                     </value>
                   </entry>
                   <entry key="GradleRunConfiguration">
