@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="input_day_13" type="PLAIN_TEXT" />
       <mapping pattern="input_day_25" type="PLAIN_TEXT" />
+      <mapping pattern="input_day_13" type="PLAIN_TEXT" />
       <mapping pattern="day2" type="PLAIN_TEXT" />
       <mapping pattern="input_day_7" type="PLAIN_TEXT" />
       <mapping pattern="input_day_8" type="PLAIN_TEXT" />
